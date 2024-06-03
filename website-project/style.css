@@ -464,7 +464,7 @@
 .pricing{
     width:90%;
     height: 50px;
-    border-style: solid;
+    border-style: hidden;
     color:#f85c70 ;
     font-size: 38px;
     font-family: Arial, Helvetica, sans-serif;
@@ -497,7 +497,7 @@
 .free1,.basic1,.execlusive1,.pro1{
     width:60%;
     height: 50px;
-    border-style: solid;
+    border-style: hidden;
     border-color: rgb(218, 211, 211);
     margin-left: 55px;
     margin-top: 40px;
@@ -520,7 +520,7 @@
 .mo1,.mo2,.mo3,.mo4{
     width:40%;
     height: 80px;
-    border-style: solid;
+    border-style: hidden;
     border-color: rgb(218, 211, 211);
     margin: 10px 65px;
     font-size: 30px;
@@ -530,22 +530,22 @@
 .rup1,.rup2,.rup3,.rup4{
     width:10%;
     height: 17px;
-    border-style: solid;
-    font-size: 16px;
+    border-style: hidden;
+    font-size: 15px;
     margin-left: 0;
     float: left;
 }
 .date1,.date2,.date3,.date4{
     width:70%;
     height: 70px;
-    border-style: solid;
-    font-size: 40px;
+    border-style: hidden;
+    font-size: 60px;
     float: left;
 }
 .project1,.project2,.project3,.project4{
     width:50%;
     height: 50px;
-    border-style: solid;
+    border-style: hidden;
     border-color: rgb(218, 211, 211);
     margin: 10px 55px;
     padding-left: 30px;
@@ -556,7 +556,7 @@
 .storage1,.storage2,.storage3,.storage4{
     width:50%;
     height: 50px;
-    border-style: solid;
+    border-style: hidden;
     border-color: rgb(218, 211, 211);
     margin: 10px 55px;
     padding-left: 18px;
@@ -567,7 +567,7 @@
 .domine1,.domine2,.domine3,.domine4{
     width:50%;
     height: 50px;
-    border-style: solid;
+    border-style: hidden;
     border-color: rgb(218, 211, 211);
     margin: 10px 55px;
     padding-left: 27px;
@@ -578,7 +578,7 @@
 .user1,.user2,.user3,.user4{
     width:50%;
     height: 50px;
-    border-style: solid;
+    border-style:hidden;
     border-color: rgb(218, 211, 211);
     margin: 10px 55px;
     padding-left: 30px;
